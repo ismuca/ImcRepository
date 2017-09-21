@@ -15,7 +15,7 @@ namespace NewProjectImc.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Esto es una prueba nueva.";
 
             return View();
         }
